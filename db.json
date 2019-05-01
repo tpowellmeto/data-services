@@ -1,5 +1,11 @@
 {
   "name": "Data Services",
+  "posts": [
+    {
+      "id": 1,
+      "text": "something"
+    }
+  ],
   "squads": [
     {
       "id": "abcd",
