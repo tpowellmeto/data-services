@@ -1,3 +1,21 @@
 {
-  "name": "Data Services"
+  "name": "Data Services",
+  "squads": [
+    {
+      "id": "abcd",
+      "name": "Meerkat",
+      "members": [
+        "link": "/members/hjdjsh",
+        "name": "Tom Powell"
+      ]
+    }
+  ],
+  "projects": [],
+  "members": [
+    { 
+      "id" : "hjdjsh",
+      "name": "Tom Powell"
+    }
+  ],
+  "services": [],
 }
