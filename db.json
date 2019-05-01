@@ -8,11 +8,11 @@
   ],
   "squads": [
     {
-      "id": "abcd",
+      "id": 2,
       "name": "Meerkat",
       "members": [ 
         {
-          "link": "/members/hjdjsh",
+          "link": "/members/3",
           "name": "Tom Powell"
         }
       ]
@@ -21,7 +21,7 @@
   "projects": [],
   "members": [
     { 
-      "id" : "hjdjsh",
+      "id" : 3,
       "name": "Tom Powell"
     }
   ],
