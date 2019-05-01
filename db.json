@@ -4,9 +4,11 @@
     {
       "id": "abcd",
       "name": "Meerkat",
-      "members": [
-        "link": "/members/hjdjsh",
-        "name": "Tom Powell"
+      "members": [ 
+        {
+          "link": "/members/hjdjsh",
+          "name": "Tom Powell"
+        }
       ]
     }
   ],
@@ -17,5 +19,5 @@
       "name": "Tom Powell"
     }
   ],
-  "services": [],
+  "services": []
 }
